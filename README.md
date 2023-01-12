@@ -17,7 +17,7 @@
 ## <img src="https://i.postimg.cc/Wbq9jQMN/profile-logo.png" alt="Portfolio" width="40" height="40" align="center"/> About Me
 
 - 🔭 I’m currently working on **improving my skills**
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Backend part**
 - 👨‍💻 Personal portfolio: **<a href="https://denish-fuletra-portfolio.netlify.app/" target="_blank">Portfolio</a>**
 - 💬 Ask me about **Web, FrontEnd and BackEnd**
 - 📫 How to reach me: **fuletradenish@gmail.com**
