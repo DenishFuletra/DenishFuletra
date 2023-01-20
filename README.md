@@ -48,7 +48,7 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=DenishFuletra&theme=radical&hide_border=true" alt="DenishFuletra" /></p>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
 <table>
   <tr>
@@ -57,7 +57,7 @@
   </tr>
 </table>
 
-<br>
+<br> -->
 
 <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
